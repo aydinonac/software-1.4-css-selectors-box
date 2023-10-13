@@ -1,0 +1,36 @@
+h1 { 
+  color: red;
+  text-align: center;
+  font-size: 40px;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightskyblue;
+}
+.tab1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.sec1 {
+  background-color: lavenderblush;
+  margin: 20px;
+  border: 6px solid pink;
+  padding: 10px;
+  width: 60%
+}
+form {
+  background-color: lavenderblush;
+  border: 4px solid pink;
+  padding: 10px;
+  width: 60%
+}
+.para1 {
+  background-color: lightpink;
+  color: darkbrown;
+  padding: 10px;
+  font-size: 20px
+}
